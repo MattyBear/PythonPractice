@@ -1,7 +1,7 @@
 # Evennia dependencies, for Linux/Mac platforms
 
 django > 2.2.9
-twisted == 19.7.0
+twisted == 22.1.0
 mock >= 1.0.1
 pillow == 6.2.0
 pytz
